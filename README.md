@@ -1,0 +1,3 @@
+# Notes-app
+Note taking android application aimed to have both a simple interface but keeping smart behavior.
+I am working on an Android based Notes taking app based on Kotlin and SQLite. This app provides privacy by design - no data storage in cloud, no accounts and no usage tracking. Few of the main features include a simplistic UI, easy to use interface, easy addition and deletion of note and easy editing. Notes are saved automatically so the user never has to worry about losing anything. This app is built with Room, ViewModel, recyclerView and LiveData. Since, this is an ongoing project, I plan to integrate new features like dark mode, multiple workspaces, color highlight for workspaces, to-do list feature and markdown in the near future.
